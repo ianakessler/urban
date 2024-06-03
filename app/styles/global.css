@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --cor1: #EBE9EA;
+}
+
+html, body{
+    height: 100vh;
+}
+
+
+
+a, a:visited, a:link{
+    text-decoration: none;
+    color: black;
+}
+
+ol, ul, li{
+    list-style: none;
+}
+
+
+
+
+
+
+
