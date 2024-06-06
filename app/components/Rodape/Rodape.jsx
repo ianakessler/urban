@@ -21,7 +21,7 @@ export default function Rodape(){
                         <li><p>Ian Aratangy Kessler: 12523129071</p></li>
                         <li><p>Felipe Akira Miyagi: 12523179516</p></li>
                         <li><p>Kamila Dias de Araujo: 12523179753</p></li>
-                        <li><p>Ian Aratangy Kessler: 12523129071</p></li>
+                        <li><p>Raphael Sena: 12524126329</p></li>
                     </ul>
                 </div>
 

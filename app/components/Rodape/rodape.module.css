@@ -1,37 +1,43 @@
-.containerFooter{
-    width: 100%;
-    max-width: 1100px;
-    margin: 0 auto;
+.containerFooter {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
 
-    display: flex;
-    justify-content: space-between;
-    padding: 15px 2%;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 2%;
+  color: #ccc;
 }
 
-.rodape{
-    background-color: black;
-    color: white;
+.rodape {
+  background-color: black;
+  color: #ccc;
 }
 
-.list, .list li{
-    color: white;
-    list-style: circle;
+.list,
+.list li {
+  color: #ccc;
+
+  list-style: circle;
+}
+.list a{
+  color: white;
+}
+.listItem {
+  margin-bottom: 4px;
 }
 
-.listItem{
-    margin-bottom: 4px;
+.listItem a {
+  color: #ccc;
 }
 
-.listItem a{
-    color: white;
+.equipe,
+.equipe li {
+  color: #ccc;
+
+  list-style: circle;
 }
 
-
-.equipe, .equipe li{
-    color: white;
-    list-style: circle;
-}
-
-.equipeli{
-    margin-bottom: 4px;
+.equipeli {
+  margin-bottom: 4px;
 }

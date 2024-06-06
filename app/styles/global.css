@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+
 }
 
 :root{
@@ -10,13 +11,15 @@
 
 html, body{
     height: 100vh;
+    font-family: sans-serif;
+    background-color: #ccc;
 }
 
 
 
 a, a:visited, a:link{
     text-decoration: none;
-    color: black;
+    
 }
 
 ol, ul, li{

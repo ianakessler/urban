@@ -7,7 +7,6 @@ import Rodape from "@/app/components/Rodape/Rodape";
 export default function Sobre(){
     return(
         <div className={styles.app}>
-            <Cabecalho/>
             <Banner 
             img="bg1.jpg"
             texto="Sobre nós"
@@ -20,7 +19,6 @@ export default function Sobre(){
 
             </div>
 
-            <Rodape/>
 
         </div>
     )

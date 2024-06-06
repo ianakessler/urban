@@ -24,10 +24,6 @@ export default function Cabecalho(){
                              <li className={styles.listItem}>Sobre nós</li>
 
                         </Link>
-                        <Link href={"../Sobre"}>
-                             <li className={styles.listItem}>Contato</li>
-
-                        </Link>
                    
                     </ul>
                 </nav>
